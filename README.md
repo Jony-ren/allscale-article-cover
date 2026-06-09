@@ -108,7 +108,7 @@ AllScale Article Cover 是一个 Codex Skill，用来指导 AI Agent 为 AllScal
 克隆仓库：
 
 ```bash
-git clone https://github.com/helloianneo/allscale-article-cover.git
+git clone https://github.com/Jony-ren/allscale-article-cover.git
 cd allscale-article-cover
 ```
 
@@ -246,7 +246,7 @@ allscale-article-cover/
 
 用 AI 团队打造一人公司。
 
-- GitHub: [helloianneo](https://github.com/helloianneo)
+- GitHub: [Jony-ren](https://github.com/Jony-ren)
 - X/Twitter: [@ianneo_ai](https://x.com/ianneo_ai)
 - 网站: [www.ianneo.xyz](https://www.ianneo.xyz)
 - 微信: `ianneoxyz`
