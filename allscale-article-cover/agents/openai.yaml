@@ -1,0 +1,5 @@
+interface:
+  display_name: "AllScale Article Cover"
+  short_description: "生成 AllScale 风格文章封面与博客头图"
+  brand_color: "#16D36B"
+  default_prompt: "Use $allscale-article-cover to 为这篇文章生成一张 AllScale 风格封面图。"
